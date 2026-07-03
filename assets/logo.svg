@@ -1,1 +1,21 @@
-<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg"><rect x="0" y="0" width="400" height="200" fill="#2f2f2f" rx="10"/><circle cx="200" cy="100" r="80" fill="none" stroke="#00ff41" stroke-width="10"/><path d="M 150 50 L 250 50 M 200 30 L 200 170" stroke="#00ff41" stroke-width="5"/><path d="M 170 70 L 230 70 M 170 130 L 230 130" stroke="#00ff41" stroke-width="5"/><text x="120" y="160" font-family="monospace" font-size="30" fill="#00ff41">AI SECURITY</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ff41" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00ff41" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="200" fill="#0a0a0f" rx="12"/>
+  <rect x="1" y="1" width="398" height="198" fill="none" stroke="#00ff41" stroke-opacity="0.2" rx="11"/>
+  <!-- Shield -->
+  <path d="M200 30 L260 55 L260 110 Q260 150 200 170 Q140 150 140 110 L140 55 Z" fill="url(#g1)" stroke="#00ff41" stroke-width="2"/>
+  <!-- Checkmark -->
+  <path d="M175 105 L195 125 L230 85" fill="none" stroke="#00ff41" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Circuit lines -->
+  <line x1="260" y1="80" x2="300" y2="80" stroke="#00ff41" stroke-opacity="0.3" stroke-width="1"/>
+  <line x1="100" y1="80" x2="140" y2="80" stroke="#00ff41" stroke-opacity="0.3" stroke-width="1"/>
+  <circle cx="300" cy="80" r="3" fill="#00ff41" fill-opacity="0.5"/>
+  <circle cx="100" cy="80" r="3" fill="#00ff41" fill-opacity="0.5"/>
+  <!-- Text -->
+  <text x="200" y="190" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#00ff41" font-weight="bold" letter-spacing="3">AI SECURITY TOOLS</text>
+</svg>
