@@ -1,29 +1,48 @@
+<div align="center">
+
+<img src="assets/logo.svg" width="400" alt="Awesome AI Security Tools">
+
 # Awesome AI Security Tools
-<img src="assets/logo.svg" width="400">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Stars](https://img.shields.io/github/stars/ykrishhh/awesome-ai-security-tools?style=social)](https://github.com/ykrishhh/awesome-ai-security-tools)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+> A curated list of 200+ AI-powered security tools for cybersecurity.
 
-> A curated list of 200+ AI and machine learning tools for cybersecurity.
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=for-the-badge)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/ykrishhh/awesome-ai-security-tools?style=for-the-badge&color=brightgreen)](https://github.com/ykrishhh/awesome-ai-security-tools)
+[![Issues](https://img.shields.io/github/issues/ykrishhh/awesome-ai-security-tools?style=for-the-badge)](https://github.com/ykrishhh/awesome-ai-security-tools/issues)
 
-## AI Pentesting
-- [strix](https://github.com/usestrix/strix) — Autonomous AI pentesting agent (32k stars)
-- [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) — 100+ integrated security tools
-- [deepsec](https://github.com/vercel-labs/deepsec) — AI vulnerability scanner
+</div>
 
-## Malware Analysis
-- AI Malware Detector — ML-based classification
-- DeepPayload — Deep learning payload analysis
-- Neural Sandbox — AI-powered sandboxing
+---
 
-## Threat Intelligence
-- MITRE ATLAS — Adversarial threat knowledge base
-- OWASP AI Security — LLM security top 10
-- NIST AI RMF — AI risk management
+## Features
+
+| Category | Tools |
+|----------|-------|
+| AI Pentesting | strix, CyberStrikeAI, deepsec |
+| Malware Analysis | AI Malware Detector, DeepPayload, Neural Sandbox |
+| Threat Intel | MITRE ATLAS, OWASP AI Security, NIST AI RMF |
+| Vuln Scanning | Semgrep AI, AI IDS, Anomaly Detector |
+| Mobile Security | DroidAI, APK Analyzer AI, iOS Threat Scanner |
+
+## Quick Start
+
+```bash
+git clone https://github.com/ykrishhh/awesome-ai-security-tools.git
+cd awesome-ai-security-tools
+```
 
 ## Contributing
-PRs welcome! See CONTRIBUTING.md.
+
+Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
 ## License
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+[MIT License](LICENSE) — Built by [ykrishhh](https://github.com/ykrishhh)
+
+---
+
+<div align="center">
+
+**If you find this useful, please give it a star!** ⭐
+
+</div>
